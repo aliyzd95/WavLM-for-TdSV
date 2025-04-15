@@ -16,7 +16,6 @@ The DeepMine dataset is a Persian-English speech database collected through crow
 - **Collection Environment**: Real-life noise conditions
 - **Utterance Types**:
   - 5 fixed Persian + 5 fixed English phrases
-  - 
 ### 🔠 Phrase Mapping (Text-Dependent Samples)
 ```python
 phrase_mapping = {
